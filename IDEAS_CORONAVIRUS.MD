@@ -1,0 +1,1 @@
+Cada alumno de eexplicar una idea para una aplicación que sirva de forma Altruista para ayudar a las personas a superar la crisis actual sobre esta pandemia.
