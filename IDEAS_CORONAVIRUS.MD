@@ -1,1 +1,4 @@
-Cada alumno debe explicar una idea para una aplicación Web que sirva de forma Altruista para ayudar a las personas a superar la crisis actual sobre esta pandemia.
+Idea del alumno Jesús Romero Navarro:
+
+Mi idea consiste en una aplicación de juegos dinámicos y divertidos por video llamada.
+Así la gente se mantendrá distraida y no caerán en el caos.
