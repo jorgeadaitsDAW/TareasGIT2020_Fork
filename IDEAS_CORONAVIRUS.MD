@@ -7,6 +7,9 @@ para hacer en familia. Ofrece un catalogo de categorias en la que puedes filtrar
 objetivos o otros terminos como el tener jardin, vivo solo o acompañado, cuantas personas 
 hay en casa, etc. Con este te mandará unas tareas especificas que sean afines a ti.
 
+Marcos Torres :Una aplicacion que permita el entretenimiento mediante la conversacion e interaccion con otras personas para que la cuarentena mo se haga tan pesada.
+dicha aplicacion tendra recprdatorios para la limpieza de manos e igiene.
+
 Jose Manuel Rebolledo: Crearia una Pagina web llamada TheWolrdGamer, en esa pagina estaria compuesto
 por diferentes seciones donde perteneceria a las distintas consolas de la 
 historia. Tendria el emulador Online y los juegos estarian en un servidor
@@ -31,4 +34,3 @@ las zonas más afectadas, también permitiría la autoevaluación de síntomas. 
 Carlos Manuel Villar: Yo para que esta pandemia pare, haria una aplicacion que sea obligatoria de instalar en la que la policia sepa en que lugar 
  estas en cada momento del dia para saber por donde te mueves y en el que haya un apartado donde pulses para pedir permiso 
  para poder moverte, como por ejemplo para ir de compras, para sacar el perro, para ir a trabajar, etc.
-
