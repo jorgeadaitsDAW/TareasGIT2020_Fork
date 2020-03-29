@@ -2,6 +2,18 @@ Cada alumno debe explicar una idea para una aplicación Web que sirva de forma A
 
 Juan Jesús Martínez López  una aplicación que que sería una buena idea para ayudar a superar la crisis pandemica sería una que te diera una idea diaria para hacer en tu casa mientras pasa la cuarentena en tu casa, las actividades podrían pasar de hacer algo de ejercicio a conocer un movimiento artístico en profundidad, o ver una pelicula. Se busca que la gente mas agobiada por el confinamiento se distraiga y no piense en que se encuentra encerrad@.
 
+Rafael Oliva : CoronaTime -> Es una aplicación donde tendras diversas actividades para realizar en casa y no aburrirte.
+
+Mario Ballestero: RETOS APP -> Es una aplicacion, que cada dia a las 9:00 te manda un listado de tareas 
+para hacer durante el dia en casa con el objetivo de que siempre estes ocupado y 
+aproveches la cuarentena. Mezcla una seleccion de tareas de casa y tareas divertidas 
+para hacer en familia. Ofrece un catalogo de categorias en la que puedes filtrar tus 
+objetivos o otros terminos como el tener jardin, vivo solo o acompañado, cuantas personas 
+hay en casa, etc. Con este te mandará unas tareas especificas que sean afines a ti.
+
+Marcos Torres :Una aplicacion que permita el entretenimiento mediante la conversacion e interaccion con otras personas para que la cuarentena mo se haga tan pesada.
+dicha aplicacion tendra recprdatorios para la limpieza de manos e igiene.
+
 Jose Manuel Rebolledo: Crearia una Pagina web llamada TheWolrdGamer, en esa pagina estaria compuesto
 por diferentes seciones donde perteneceria a las distintas consolas de la 
 historia. Tendria el emulador Online y los juegos estarian en un servidor
@@ -17,7 +29,6 @@ comprar comida. Se le facilitaria la ayuda de las personas que se hayan registra
 Jesús Romero Navarro: Mi idea consiste en una aplicación de juegos dinámicos y divertidos por video llamada.
 Así la gente se mantendrá distraida y no caerán en el caos.
 
-
 Enrique Rapela Castejón : Mi aplcación se llamaría ConectCorona. Sería una aplicación en la que habrá servidores de temas específicos: juegos, pasatiempos, charlas, deportes, reuniones... 
 En la que cada usuario se meterá en la que mejor le vaya gustando y dentro de esos servidores habrá chats de video y videollamadas para conversar sobre temas referidos al nombre del servidor, y a parte de conocer gente de diferentes ciudades de tu país también estarás desconectado del mundo un tiempo y no estarás hechando cuenta a estas horas insufribles en tu casa sin poder salir. Tambi�n estar�a el servidor de juegos y pasatiempos en el que a�adir�a salas con juegos cl�sicos como el parchis, el ajedrez en el que al mismo tiempo que est�s jugando puedas hablar con esa persona y ya que los dos os gusta ese tema poder entablar una conversaci�n y hacer m�s amena esta cuarentena.
 
@@ -27,3 +38,4 @@ las zonas más afectadas, también permitiría la autoevaluación de síntomas. 
 Carlos Manuel Villar: Yo para que esta pandemia pare, haria una aplicacion que sea obligatoria de instalar en la que la policia sepa en que lugar 
  estas en cada momento del dia para saber por donde te mueves y en el que haya un apartado donde pulses para pedir permiso 
  para poder moverte, como por ejemplo para ir de compras, para sacar el perro, para ir a trabajar, etc.
+
