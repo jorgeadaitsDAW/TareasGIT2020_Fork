@@ -1,16 +1,12 @@
 Cada alumno debe explicar una idea para una aplicaciÃ³n Web que sirva de forma Altruista para ayudar a las personas a superar la crisis actual sobre esta pandemia.
 
+Enrique Rapela CastejÃ³n : Mi aplcaciÃ³n se llamarÃ­a ConectCorona. SerÃ­a una aplicaciÃ³n en la que habrÃ¡ servidores de temas especÃ­ficos: juegos, pasatiempos, charlas, deportes, reuniones... 
+En la que cada usuario se meterÃ¡ en la que mejor le vaya gustando y dentro de esos servidores habrÃ¡ chats de video y videollamadas para conversar sobre temas referidos al nombre del servidor, y a parte de conocer gente de diferentes ciudades de tu paÃ­s tambiÃ©n estarÃ¡s desconectado del mundo un tiempo y no estarÃ¡s hechando cuenta a estas horas insufribles en tu casa sin poder salir. Tambiï¿½n estarï¿½a el servidor de juegos y pasatiempos en el que aï¿½adirï¿½a salas con juegos clï¿½sicos como el parchis, el ajedrez en el que al mismo tiempo que estï¿½s jugando puedas hablar con esa persona y ya que los dos os gusta ese tema poder entablar una conversaciï¿½n y hacer mï¿½s amena esta cuarentena.
 
---------------------------------------------------------------------------------------------------------------------------------
+Antonio Vladimir Ortega Chinchilla: Mi aplicaciÃ³n se llamarÃ­a, V1rs-Zone, esta serÃ­a un aplicaciÃ³n "radar" que nos marcarÃ­a en un mapa
+las zonas mÃ¡s afectadas, tambiÃ©n permitirÃ­a la autoevaluaciÃ³n de sÃ­ntomas. Si estas infectado o tienes sintomas podras activar un modo infectado que permitirÃ­a saber a los demÃ¡s que estas contagiado mediante unas seÃ±ales y alertas de cercanÃ­a. Un acceso directo para la comunicacion con tu centro de salud (personal) o el mÃ¡s cercano.
 
+Carlos Manuel Villar: Yo para que esta pandemia pare, haria una aplicacion que sea obligatoria de instalar en la que la policia sepa en que lugar 
+ estas en cada momento del dia para saber por donde te mueves y en el que haya un apartado donde pulses para pedir permiso 
+ para poder moverte, como por ejemplo para ir de compras, para sacar el perro, para ir a trabajar, etc.
 
-Enrique Rapela Castejón
-
-Mi aplcación se llamaría ConectCorona
-
-Sería una aplicación en la que habrá servidores de temas específicos: juegos, pasatiempos, charlas, deportes, reuniones... 
-En la que cada usuario se meterá en la que mejor le vaya gustando y dentro de esos servidores habrá chats de video y videollamadas para conversar sobre temas referidos al nombre del servidor, y a parte de conocer gente de diferentes ciudades de tu país también estarás desconectado del mundo un tiempo y no estarás hechando cuenta a estas horas insufribles en tu casa sin poder salir. También estaría el servidor de juegos y pasatiempos en el que añadiría salas con juegos clásicos como el parchis, el ajedrez en el que al mismo tiempo que estás jugando puedas hablar con esa persona y ya que los dos os gusta ese tema poder entablar una conversación y hacer más amena esta cuarentena.
-
-
-
---------------------------------------------------------------------------------------------------------------------------------
