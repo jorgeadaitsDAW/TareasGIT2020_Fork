@@ -39,3 +39,5 @@ Carlos Manuel Villar: Yo para que esta pandemia pare, haria una aplicacion que s
  estas en cada momento del dia para saber por donde te mueves y en el que haya un apartado donde pulses para pedir permiso 
  para poder moverte, como por ejemplo para ir de compras, para sacar el perro, para ir a trabajar, etc.
 
+Javier Melendez Contreras: Yo crearía una aplicación que uniera las videollamadas con el juego Just Dance, en el que las personas de dicha videollamada
+crearan una lista de reproduccion de musica que se cambiaria automaticamente y que te mostrara el total de puntos una vez finalizadas todas las canciones, y sin tener el limite de 4 jugadores como tiene el Just Dance actualmente.
