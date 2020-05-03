@@ -41,3 +41,9 @@ Carlos Manuel Villar: Yo para que esta pandemia pare, haria una aplicacion que s
 
 Javier Melendez Contreras: Yo crearía una aplicación que uniera las videollamadas con el juego Just Dance, en el que las personas de dicha videollamada
 crearan una lista de reproduccion de musica que se cambiaria automaticamente y que te mostrara el total de puntos una vez finalizadas todas las canciones, y sin tener el limite de 4 jugadores como tiene el Just Dance actualmente.
+
+Carlos Garcia Acevedo:
+Una aplicacion que permita realizar videollamadas mientras que juegas con tus amigos mediante streaming, 
+para que en esta cuarentena estes entretenido y sea mas divertida con los tuyos.
+
+
